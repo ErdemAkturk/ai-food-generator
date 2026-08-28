@@ -1,2 +1,0 @@
-# ai-food-generator
-test 

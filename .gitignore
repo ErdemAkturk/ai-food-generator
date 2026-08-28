@@ -1,25 +1,13 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-.venv/
+# Xcode
+.DS_Store
+*/.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
 
-# Environment Variables
-.env
-.env.local
-
-# Output images & cache
-generated_images/
-*.png
-*.jpg
-*.jpeg
-
-# IDE
-.vscode/
-.idea/
-*.swp
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
